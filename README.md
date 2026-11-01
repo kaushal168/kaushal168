@@ -38,28 +38,43 @@
 
 ### 🛠️ Tech Stack
 
-**AI & Automation**
-![Python](https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=BD93F9)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-282a36?style=for-the-badge&logo=openai&logoColor=BD93F9)
-![Anthropic](https://img.shields.io/badge/Anthropic_MCP-282a36?style=for-the-badge&logo=anthropic&logoColor=BD93F9)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-282a36?style=for-the-badge&logo=github-actions&logoColor=BD93F9)
-
-**Backend & Distributed Systems**
-![Java](https://img.shields.io/badge/Java_17-282a36?style=for-the-badge&logo=openjdk&logoColor=BD93F9)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-282a36?style=for-the-badge&logo=apache-kafka&logoColor=BD93F9)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-282a36?style=for-the-badge&logo=spring&logoColor=BD93F9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=BD93F9)
-
-**Frontend & Mobile**
-![TypeScript](https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=BD93F9)
-![React](https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=BD93F9)
-![Kotlin](https://img.shields.io/badge/Kotlin-282a36?style=for-the-badge&logo=kotlin&logoColor=BD93F9)
-
-**Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-282a36?style=for-the-badge&logo=google-cloud&logoColor=BD93F9)
-![Docker](https://img.shields.io/badge/Docker-282a36?style=for-the-badge&logo=docker&logoColor=BD93F9)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-282a36?style=for-the-badge&logo=kubernetes&logoColor=BD93F9)
-![OpenShift](https://img.shields.io/badge/OpenShift-282a36?style=for-the-badge&logo=redhat&logoColor=BD93F9)
+<table border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td valign="middle" align="left" nowrap><b>AI & Automation</b></td>
+    <td valign="middle" align="left">
+      <img src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-282a36?style=for-the-badge&logo=openai&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/Anthropic_MCP-282a36?style=for-the-badge&logo=anthropic&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-282a36?style=for-the-badge&logo=github-actions&logoColor=BD93F9" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" align="left" nowrap><b>Backend & Distributed Systems</b></td>
+    <td valign="middle" align="left">
+      <img src="https://img.shields.io/badge/Java_17-282a36?style=for-the-badge&logo=openjdk&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-282a36?style=for-the-badge&logo=apache-kafka&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/Spring_Boot-282a36?style=for-the-badge&logo=spring&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=BD93F9" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" align="left" nowrap><b>Frontend & Mobile</b></td>
+    <td valign="middle" align="left">
+      <img src="https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/Kotlin-282a36?style=for-the-badge&logo=kotlin&logoColor=BD93F9" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" align="left" nowrap><b>Cloud & DevOps</b></td>
+    <td valign="middle" align="left">
+      <img src="https://img.shields.io/badge/Google_Cloud-282a36?style=for-the-badge&logo=google-cloud&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/Docker-282a36?style=for-the-badge&logo=docker&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/Kubernetes-282a36?style=for-the-badge&logo=kubernetes&logoColor=BD93F9" />
+      <img src="https://img.shields.io/badge/OpenShift-282a36?style=for-the-badge&logo=redhat&logoColor=BD93F9" />
+    </td>
+  </tr>
+</table>
 
 ---
 
