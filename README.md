@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Kaushal+Baid;Stack-Agnostic+Software+Engineer;AI+Developer;Distributed+Systems+Enthusiast" alt="Typing SVG" />
   <br><br>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaushal168&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-  </a>
-  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=kaushal168&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="views" />
   <a href="https://github.com/kaushal168?tab=followers">
@@ -20,8 +15,11 @@
   <a href="mailto:kaushalbaid16@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/kaushal168">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://instagram.com/kaushal168">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/kaushalbaid16/">
+    <img src="https://img.shields.io/badge/LeetCode-2000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
 </div>
@@ -34,7 +32,7 @@
 - **Current Focus:** Architecting context-aware AI systems, multi-agent workflows, and event-driven microservices. Currently engineering solutions at **Wells Fargo**.
 - **Stack Agnostic:** Moving fluently between ecosystems—crafting LLM orchestrations and complex **Prompt Engineering** pipelines in Python, while scaling high-throughput asynchronous streams with Java 17, Spring Boot, and **Apache Kafka**.
 - **Background:** B.Tech in CSE from NIT Durgapur.
-- **📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/kaushal168/) | [Email](mailto:kaushalbaid16@gmail.com)
+- **📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/kaushal-baid-16010708/) | [Email](mailto:kaushalbaid16@gmail.com)
 
 ---
 
@@ -50,7 +48,6 @@
 ![Java](https://img.shields.io/badge/Java_17-282a36?style=for-the-badge&logo=openjdk&logoColor=BD93F9)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-282a36?style=for-the-badge&logo=apache-kafka&logoColor=BD93F9)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-282a36?style=for-the-badge&logo=spring&logoColor=BD93F9)
-![FastAPI](https://img.shields.io/badge/FastAPI-282a36?style=for-the-badge&logo=fastapi&logoColor=BD93F9)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=BD93F9)
 
 **Frontend & Mobile**
@@ -70,22 +67,18 @@
 
 <table align="center" border="0" cellpadding="2" cellspacing="0" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=kaushal168&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=issues,prs" width="100%" alt="GitHub Stats" />
+    <td align="center" width="45%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=kaushal168&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=issues,prs,contribs&show=contributions,all_time_contribs&include_all_commits=true&contribs_include_own_repos=true&hide_rank=true&line_height=22" width="100%" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaushal168&layout=compact&theme=dracula&hide_border=true&langs_count=4" width="100%" alt="Top Languages" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="55%" valign="top">
       <a href="https://leetcode.com/u/kaushalbaid16/">
-        <img src="https://leetcard.jacoblin.cool/kaushalbaid16?font=JetBrains%20Mono&colors=282a36,44475a,f8f8f2,bd93f9,bd93f9,ff79c6,8be9fd,50fa7b&border=0&radius=8&ext=activity" width="100%" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/kaushalbaid16?font=JetBrains%20Mono&colors=282a36,44475a,f8f8f2,bd93f9,bd93f9,ff79c6,8be9fd,50fa7b&border=0&radius=8&ext=contest" width="100%" alt="LeetCode Stats" />
       </a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://github.com/kaushal168">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaushal168&layout=compact&theme=dracula&hide_border=true" width="70%" />
-  </a>
-</div>
 
 ---
 
