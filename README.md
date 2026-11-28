@@ -86,8 +86,8 @@
   <tr>
     <td align="center" width="45%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=kaushal168&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=issues,prs,contribs&show=contributions,all_time_contribs&include_all_commits=true&contribs_include_own_repos=true&hide_rank=true&line_height=22" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=kaushal168&show_icons=true&theme=default&title_color=5A189A&icon_color=7C3AED&text_color=24292F&bg_color=FFFFFF&hide_border=true&count_private=true&hide=issues,prs,contribs&show=contributions,all_time_contribs&include_all_commits=true&contribs_include_own_repos=true&hide_rank=true&line_height=22" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=kaushal168&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=issues%2Cprs%2Ccontribs&show=contributions%2Call_time_contribs&include_all_commits=true&contribs_include_own_repos=true&hide_rank=true&line_height=22" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=kaushal168&show_icons=true&theme=default&title_color=5A189A&icon_color=7C3AED&text_color=24292F&bg_color=FFFFFF&hide_border=true&count_private=true&hide=issues%2Cprs%2Ccontribs&show=contributions%2Call_time_contribs&include_all_commits=true&contribs_include_own_repos=true&hide_rank=true&line_height=22" />
         <img src="https://github-stats-extended.vercel.app/api?username=kaushal168&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=issues,prs,contribs&show=contributions,all_time_contribs&include_all_commits=true&contribs_include_own_repos=true&hide_rank=true&line_height=22" width="100%" alt="GitHub Stats" />
       </picture>
       <br/>
@@ -100,7 +100,7 @@
     <td align="center" width="55%" valign="top">
       <a href="https://leetcode.com/u/kaushalbaid16/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/kaushalbaid16?font=JetBrains%20Mono&colors=282a36,44475a,f8f8f2,bd93f9,bd93f9,ff79c6,8be9fd,50fa7b&border=0&radius=8&ext=contest" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/kaushalbaid16?font=JetBrains%20Mono&colors=282a36%2C44475a%2Cf8f8f2%2Cbd93f9%2Cbd93f9%2Cff79c6%2C8be9fd%2C50fa7b&border=0&radius=8&ext=contest" />
           <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/kaushalbaid16?font=JetBrains%20Mono&theme=light&border=0&radius=8&ext=contest" />
           <img src="https://leetcard.jacoblin.cool/kaushalbaid16?font=JetBrains%20Mono&colors=282a36,44475a,f8f8f2,bd93f9,bd93f9,ff79c6,8be9fd,50fa7b&border=0&radius=8&ext=contest" width="100%" alt="LeetCode Stats" />
         </picture>
@@ -137,8 +137,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:8a2be2,100:bd93f9&height=100&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,50:8a2be2,100:5a189a&height=100&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:282a36%2C50:8a2be2%2C100:bd93f9&height=100&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff%2C50:8a2be2%2C100:5a189a&height=100&section=footer" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:8a2be2,100:bd93f9&height=100&section=footer" width="100%" alt="Footer Wave" />
   </picture>
 </div>
